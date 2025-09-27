@@ -1,4 +1,4 @@
-# Perceptron - Aspirador Inteligente
+# Perceptron - Aspirador de pó inteligente
 
 ## 1. Descrição do Problema
 O objetivo deste trabalho é implementar um **Perceptron simples** para simular o funcionamento de um aspirador inteligente.  
